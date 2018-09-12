@@ -1,6 +1,6 @@
 
 def levitation_quiz
-  while (true)
+  while true
   
   end
 	#your code here
